@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "node index"
+  },
+  "dependencies": {
+    "markdown-it": "^12.3.2",
+    "markdown-it-meta": "^0.0.1"
+  }
+}
